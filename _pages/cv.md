@@ -15,17 +15,6 @@ Education
 * Exchange Student, Computer Science, <a href="https://www.nctu.edu.tw/en" target="_blank">NCTU</a>, Taiwan, 2017-2018
 * Bachelor, Automation, Xian Jiao Tong University, Xi'an, 2015-2019
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
