@@ -1,7 +1,7 @@
 ---
 title: "Real-Time Queue Length Estimation With Trajectory Reconstruction Using Surveillance Data"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-12-13-paper-title-number-1
 excerpt: 'This paper presents a new method to estimate real-time queue lengths at a signalized intersection by utilizing limited data extracted from surveillance videos. '
 date: 2020-12-13
 venue: '16th International Conference on Control Automation Robotics & Vision'
