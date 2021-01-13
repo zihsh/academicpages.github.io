@@ -3,12 +3,12 @@ title: "Digital Signal Processing"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching-1
-venue: "SJTU, Department"
+venue: "Shanghai Jiao Tong University, Department Automation"
 date: 2020-09-01
 location: "Shanghai, China"
 ---
 
-Taught by Assistant Prof. [Xue Shibei](https://scholar.google.com/citations?user=kOF5Q_QAAAAJ&hl=zh-TW&oi=ao) in English.
+I am the teaching assistant of this course, which is taught by Prof. [Xue Shibei](https://scholar.google.com/citations?user=kOF5Q_QAAAAJ&hl=zh-TW&oi=ao) in English.
 
 
 
