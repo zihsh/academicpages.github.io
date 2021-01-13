@@ -8,7 +8,7 @@ date: 2020-09-01
 location: "Shanghai, China"
 ---
 
-I am the teaching assistant of this course, which is taught by Prof. [Xue Shibei](https://scholar.google.com/citations?user=kOF5Q_QAAAAJ&hl=zh-TW&oi=ao) in English.
+I am the teaching assistant of this course, which is taught by Prof. [Xue Shibei](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2575&info_lb=590&flag=98) in English.
 
 
 
