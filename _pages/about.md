@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website t
+Hi I am Zihao. I am pursuing the Master degree in Control Engineering at School of Electronic Information and Electrical Engineering, [Shanghai Jiao Tong University](http://en.sjtu.edu.cn). I have received the B.S. degree in Automation from [Xi’an Jiao Tong University](http://en.xjtu.edu.cn) in 2019.
+										<p>My research interest falls in area of <strong>intelligent transportation systems, autonomous driving, deep learning and data mining</strong>. Particularly, I am currently working on the modeling and prediction of traffic networks using graph convolution networks.
 
 A data-driven personal website
 ======
