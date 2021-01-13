@@ -15,15 +15,6 @@ Education
 * Exchange Student, Computer Science, <a href="https://www.nctu.edu.tw/en" target="_blank">NCTU</a>, Taiwan, 2017-2018
 * Bachelor, Automation, Xian Jiao Tong University, Xi'an, 2015-2019
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
